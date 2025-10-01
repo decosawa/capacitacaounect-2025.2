@@ -21,6 +21,10 @@ img{
     background-color: yellow;
 }
 
+#divAmarela:hover{
+    background-color: orange;
+}
+
 #divAzul{
     height: 200px;
     width: 200px;
@@ -48,4 +52,5 @@ img{
     height: 300px;
     width: 300px;
     background-image: url(https://unect.com.br/src/LogoFooter2.png);
+
 }
