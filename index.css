@@ -1,0 +1,51 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color:chocolate;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+body{
+    background-color: aqua;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+
+#divAmarela{
+    height: 200dvh;
+    width: 200dvw;
+    background-color: yellow;
+}
+
+#divAzul{
+    height: 200px;
+    width: 200px;
+    background-color: blue;  
+}
+
+#divVermelha{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+#divPrincipal{
+    background-color: black;
+    height: 5dvh;
+    width: 5dvw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px
+}
+
+.imagem{
+    height: 300px;
+    width: 300px;
+    background-image: url(https://unect.com.br/src/LogoFooter2.png);
+}
